@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.tawanweb.hrwoker.entites.Worker;
-import com.tawanweb.hrwoker.entites.repositories.WorkerRepository;
+import com.tawanweb.hrwoker.repositories.WorkerRepository;
 
 @RestController
 @RequestMapping(value = "/workers")

@@ -1,4 +1,4 @@
-package com.tawanweb.hrwoker.entites.repositories;
+package com.tawanweb.hrwoker.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
